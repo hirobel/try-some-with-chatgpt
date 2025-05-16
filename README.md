@@ -1,1 +1,1 @@
-# try-soma-with-chatgpt
+# try-some-with-chatgpt
